@@ -7,8 +7,8 @@
 %global crate wait-timeout
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        4%{?dist}
+Version:        0.2.1
+Release:        1%{?dist}
 Summary:        Crate to wait on a child process with a timeout
 
 # Upstream license specification: MIT/Apache-2.0
